@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-    color: #59788e;
+    color: #f31a80;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -24,10 +24,12 @@ p {
 }
 
 .topnav input[type=text] {
-    padding: 6px;
-    margin-top: 8px;
-    font-size: 17px;
-    border: none;
+    height: 40px;
+    width: 580px;
+    margin-left: 370px;
+    padding-left: 15px;
+    font-size: 20px;
+    border: 1px solid #0e2433;
 }
 
 .topnav .search-container button {
@@ -43,7 +45,7 @@ p {
 
 .button {
     height: 38px;
-    width: 580px;
+    width: 140px;
     background-color: #59788e;
     font-size: 15px;
     color: #0e2433;
